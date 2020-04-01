@@ -1,0 +1,17 @@
+<style>
+header {
+    background-color:rgb(3, 59, 133);
+    color:white;
+    text-align:left;
+    padding:5px;
+}
+nav {
+    line-height:90px;
+    background-color:#eeeeee;
+    height:300px;
+    width:100px;
+    float:left;
+    padding:5px; 
+}
+
+</style>
